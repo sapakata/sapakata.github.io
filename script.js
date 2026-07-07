@@ -55,7 +55,7 @@ if (form) {
 }
 
 // ===== INSTAGRAM FEED via Behold =====
-const BEHOLD_URL = 'https://feeds.behold.so/JI0dypackcxlUtk4dTHd';
+const BEHOLD_URL = 'https://feeds.behold.so/fR3YI4YZFjE5N7BQfmr5';
 const MAX_PHOTOS = 9;
 
 async function loadInstagramFeed() {
